@@ -7,6 +7,7 @@ const searchList = document.querySelector('.search-list');
 //Event list
 searchButton.addEventListener('click', addSearch);
 
+//
 
 //Functions
 
